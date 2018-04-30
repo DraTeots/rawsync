@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2037
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RawSyncCLI", "RawSyncCLI\RawSyncCLI.csproj", "{28240AD1-2C59-49A5-B5D8-E7367410380E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RawSyncLib", "RawSyncLib\RawSyncLib.csproj", "{F072C857-C91E-47B9-856E-0B77808510A7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{28240AD1-2C59-49A5-B5D8-E7367410380E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28240AD1-2C59-49A5-B5D8-E7367410380E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28240AD1-2C59-49A5-B5D8-E7367410380E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28240AD1-2C59-49A5-B5D8-E7367410380E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F072C857-C91E-47B9-856E-0B77808510A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F072C857-C91E-47B9-856E-0B77808510A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F072C857-C91E-47B9-856E-0B77808510A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F072C857-C91E-47B9-856E-0B77808510A7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E23F2EA1-8306-4C0E-B876-F5173B9E0953}
+	EndGlobalSection
+EndGlobal
