@@ -48,5 +48,11 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\RawSyncLib\RawSyncLib.csproj">
+      <Project>{f072c857-c91e-47b9-856e-0b77808510a7}</Project>
+      <Name>RawSyncLib</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

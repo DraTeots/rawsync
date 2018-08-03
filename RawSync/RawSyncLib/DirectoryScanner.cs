@@ -1,12 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace RawSyncLib
+﻿namespace RawSync
 {
-    public class DirectoryScanner
+    public class FileScanner
     {
     }
 }
